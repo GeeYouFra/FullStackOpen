@@ -1,0 +1,6 @@
+title FullStackOpen part 0.6
+
+Note over Browser: User input for new note
+
+Browser ->Server: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note_spa
+Server-->Browser: [{content: "Hello Helsinki", date: "2022-02-28T20:54:34.989Z"
