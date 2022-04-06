@@ -1,7 +1,6 @@
 import React from 'react';
 
 const Header = ({ title }) => {
-  // console.log(title.name);
   return (
     <div>
       <h2>{title}</h2>
@@ -19,7 +18,6 @@ const Parts = ({ name, exercises }) => {
 };
 
 const Content = ({ content }) => {
-  // console.log(content);
   return (
     <div>
       <table>
